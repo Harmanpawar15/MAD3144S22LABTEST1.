@@ -1,0 +1,13 @@
+<HTML>
+    <HEAD><h1> PART TWO</h1></HEAD>
+    <body>
+        <div id="mytext"></div>
+    </body>
+    <script>
+
+    const abc= document.getElementById("mytext")
+    
+    abc.textContent = 'This is dummy data , HY WELCOME';
+    
+    </script>
+    </HTML>
