@@ -1,0 +1,39 @@
+<HTML>
+    <style>
+        table, th, td {
+          border:1px solid blue;
+        }
+        </style>
+    <HEAD><h1> Guide For dogs  </h1></HEAD>
+    <body style="background-image: url('bg.jpeg');">
+        <table>
+            <tr>
+              <th>Dogs Breeds</th>
+              <th>Image</th> 
+              <th>Description</th>
+            </tr>
+
+<tr>
+        <td>PUG</td>
+        <td><img src="10798207.jpg" alt="Trulli" width="300" height="333"></td>
+        <td>Pugs are also known to be great family dogs and are very playful and affectionate with children. Also, because of their mouth shape, pugs have trouble delivering an aggressive bite and so are considered to be on the more kid-safe end of the breed spectrum.</td>
+    </tr>
+<tr>
+        <td>BEAGLE</td>
+       <td><img src="322868_1100-800x825.jpg" alt="Trulli" width="300" height="333"> </td>
+        <td>Beagles are active, curious dogs. They are also hound dogs, so it's in their nature to roam. Care must be taken to prevent them from wandering off into harm's way by keeping them contained in a fenced-in yard or on a leash when outside of the house. Beagles also are friendly little dogs..</td>
+    </tr>
+<tr>
+    <td> CHOW CHOW </td>
+    <td><img src="chowchow.jpg" alt="Trulli" width="300" height="333"></td>
+    <td>Pugs are also known to be great family dogs and are very playful and affectionate with children. Also, because of their mouth shape, pugs have trouble delivering an aggressive bite and so are considered to be on the more kid-safe end of the breed spectrum.</td>
+    </tr>
+
+
+</table>
+    <Script>
+
+    
+    </Script>
+    </body>
+    </HTML>
